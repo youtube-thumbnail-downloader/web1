@@ -1,0 +1,57 @@
+# Site Info
+title: Urvashi Rautela's private bathroom leaked video HD
+url: https://urvashi-rautela.mview.online
+
+# Display app icon on site
+enable:
+  app_icon: true
+
+# Device (options: iphone-black, iphone-white)
+device: iphone-white
+
+app:
+  icon: https://e7.pngegg.com/pngimages/862/923/png-clipart-video-player-computer-icons-media-player-play-button-blue-angle.png
+  name: Maya G Video Leaked
+  ios_id: 1322916600 # https://itunes.apple.com/us/app/dualog-admin/id1322916600
+  android_id: com.dualog.admin # https://play.google.com/store/apps/details?id=com.dualog.admin
+  screenshot: https://w0.peakpx.com/wallpaper/222/937/HD-wallpaper-paradise-sea-paradise-sea.jpg
+
+# Marketing
+marketing_header: Video Leaked Maya G Viral 2024
+marketing_desc: Watch the full Maya G video tutorial leaked on Twitter, X, Tiktok, Twitter. Discover the viral content and learn more about the trending video tutorial.
+
+article_1: Maya G bathroom video took the internet by storm and amazed viewers on various social media platforms. Maya G bathroom, a young and talented digital creator, recently became famous thanks to this interesting video.
+article_2: First shared on TikTok, Maya G bathroom video quickly gained attention on other social media platforms and took her online presence to the next level. Let’s dive into the origins, growth, and impact of this viral trend by examining its concept, implementation, and unique impact on online communities.
+article_3: Who is Maya G bathroom? Maya G bathroom is a creative young digital artist widely known for her amazing Spider-Man videos. Initially shared on TikTok, the video quickly gained attention on various social media platforms and further strengthened Sophia Rain’s online reputation.
+
+google-site: neCSupXCTLAeITDoius5FFj3xf8-XJDu2lE3_f7kKjQ
+google_analytics: # Optional
+itunes_affiliate_token: # Optional
+
+include:
+  - upload
+
+plugins:
+  - jekyll-sitemap
+  
+social-links:
+  github: #
+  twitter: #
+  instagram: #
+  linkedin: #
+  email: #
+
+# Developer stuff
+link_color: 
+social_link_color: black; 
+background_color: "#f5f5f5"
+download_button_text_color: white;
+download_button_background_color: "#02405a"
+
+version: v1.0
+sass:
+  style: :compressed
+
+exclude:
+  - README.md
+  - LICENSE
