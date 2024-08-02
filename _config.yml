@@ -13,7 +13,8 @@ app:
   icon: https://e7.pngegg.com/pngimages/862/923/png-clipart-video-player-computer-icons-media-player-play-button-blue-angle.png
   name: Maya G Video Leaked
   ios_id: 1322916600 # https://itunes.apple.com/us/app/dualog-admin/id1322916600
-  android_id: com.dualog.admin # https://play.google.com/store/apps/details?id=com.dualog.admin
+  link_1: https://www.postzo.store/leaked-video?Mayagit
+  link_2: https://www.postzo.store/leaked-video?Mayagit
   screenshot: https://w0.peakpx.com/wallpaper/222/937/HD-wallpaper-paradise-sea-paradise-sea.jpg
 
 # Marketing
@@ -31,7 +32,6 @@ articlefull: |
 
 google-site: neCSupXCTLAeITDoius5FFj3xf8-XJDu2lE3_f7kKjQ
 google_analytics: # Optional
-itunes_affiliate_token: # Optional
 
 include:
   - upload
