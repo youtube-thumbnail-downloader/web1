@@ -31,9 +31,8 @@ layout: default
             </a>
             {% endif %}
           </div>
-		  <p class="marketing-desc">{{ site.articlefull | markdownify }}</p>
 		  
-<h1>Daftar File PDF</h1>
+		  <h2>PDF File List</h2>
 <ul>
     {% for file in site.static_files %}
         {% if file.path contains '/upload/' %}
@@ -44,9 +43,7 @@ layout: default
     {% endfor %}
 </ul>
 
-
-
-	
+		  <p class="marketing-desc">{{ site.articlefull | markdownify }}</p>
         </div>
       </div>
 
