@@ -21,12 +21,12 @@ layout: default
 
           <p class="marketing-desc">{{ site.marketing_desc }}</p>
           <div class="download-buttons">
-            <a class="download-btn btn btn-lg" href="{{ site.app.android_id1 }}">
+            <a class="download-btn btn btn-lg" href="{{ site.link.url_1 }}">
               <i class="fa fa-play" aria-hidden="true"></i> Watch
             </a>
 
-            {% if site.app.android_id %}
-            <a class="download-btn btn btn-lg" href="{{ site.app.android_id2 }}">
+            {% if site.link.url_2 %}
+            <a class="download-btn btn btn-lg" href="{{ site.link.url_2 }}">
               <i class="fa fa-download" aria-hidden="true"></i> Download
             </a>
             {% endif %}
