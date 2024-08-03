@@ -38,6 +38,7 @@ include:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
   
 social-links:
   github: #
